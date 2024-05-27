@@ -35,7 +35,7 @@ This project is a text-based adventure game implemented in C programming languag
 
 ## License
 
-This project is licensed under the [MIT License].
+This project is licensed under the [MIT License](LICENSE) .
 
 ## Feedback and Support
 
