@@ -1,4 +1,4 @@
-# Text-Based Adventure Game using Binary Tree and Stack
+# Text-Based Adventure Game using Binary Tree and Stack in C
 
 Welcome to the Text-Based Adventure Game project! This project utilizes binary tree and stack data structures to create an interactive text adventure game where players make choices that lead them through various storylines.
 
