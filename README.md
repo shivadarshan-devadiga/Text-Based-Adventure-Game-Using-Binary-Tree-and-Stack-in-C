@@ -32,6 +32,7 @@ This project is a text-based adventure game implemented in C programming languag
 ## Contributors
 
 - [Shivadarshan](https://github.com/shivadarshan-devadiga)
+- [Sheik Gouse](https://github.com/Gouse05)
 
 ## License
 
